@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 
 
-chat_id = 845786312 # Ваш chat ID, не меняйте название переменной
+chat_id = 417658432 
 
 def solution(x: np.array) -> float:
-    return x.mean()/56 # Ваш ответ
+    return x.mean()/69 # Ваш ответ
