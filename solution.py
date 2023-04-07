@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 
 
-chat_id = 417658432 
+chat_id = 845786312
 
 def solution(x: np.array) -> float:
-    return x.mean()*2/4761 # Ваш ответ
+    return x.mean()/56 # Ваш ответ
